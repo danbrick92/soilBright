@@ -10,11 +10,23 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // This defines the text field that the usr has input
+    @IBAction func nextButton(_ sender: Any) {
+    }
+    @IBOutlet weak var userInput: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+//    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+//        if segue.identifier == "segue1"{
+//            let destinationController = segue.destination as! SecondViewController
+//            destinationController.labelText = userInput.text!
+//        }
+            
+    //}
+    
 }
 

@@ -1,0 +1,32 @@
+{
+    "numbers" : [
+        {
+            "lessonName" : "What is Soil?",
+            "lessons" : ["lesson1.1","lesson1.2","lesson1.3","lesson1.4","lesson1.5","lesson1.6","lesson1.7","lesson1.8","lesson1.9","lesson1.10"]
+        },
+        {
+            "lessonName" : "Why is Soil Important?",
+            "lessons" : ["lesson2.1","lesson2.2","lesson2.3","lesson2.4","lesson2.5","lesson2.6","lesson2.7"]
+        },
+        {
+            "lessonName" : "Important Soil Characteristics",
+            "lessons" : ["lesson3.1","lesson3.2","lesson3.3","lesson3.4","lesson3.5","lesson3.6","lesson3.7","lesson3.8"]
+        },
+        {
+            "lessonName" : "Soil and Plants to Buy",
+            "lessons" : ["lesson4.1","lesson4.2","lesson4.3","lesson4.4","lesson4.5","lesson4.6","lesson4.7"]
+        },
+        {
+            "lessonName" : "Amending Soil",
+            "lessons" : ["lesson5.1","lesson5.2","lesson5.3","lesson5.4","lesson5.5","lesson5.6","lesson5.7","lesson5.8"]
+        },
+        {
+            "lessonName" : "Soil and Climate Change",
+            "lessons" : ["lesson6.1","lesson6.2","lesson6.3","lesson6.4","lesson6.5","lesson6.6","lesson6.7","lesson6.8"]
+        },
+        {
+            "lessonName" : "References",
+            "lessons" : ["lesson7.1"]
+        }
+    ]
+}
